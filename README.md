@@ -21,7 +21,7 @@ index 0 of its list of available forks.
 Run using the **Python 3** interpreter.
 
 The user can input arguments:
-**python3 solucion.py <exec_time> <num_philosophers>**
+**python3 filosofos.py <exec_time> <num_philosophers>**
 
 Arguments must be integers. An error is displayed otherwise.
 

@@ -26,7 +26,7 @@ The user can input arguments:
 Arguments must be integers. An error is displayed otherwise.
 
 If no argument is provided, the program runs using a default number of 5 philosophers, whose
-names a read from the xml file: **philosophers.xml**. If no file exists, a new one is created.
+names are read from the xml file: **philosophers.xml**. If no file exists, a new one is created.
 
 ![Python Execution](https://github.com/RedRichard/Philosopher-s-Problem/blob/master/programScreenshots/pythonExecution.png)
 
@@ -44,6 +44,6 @@ The user can input arguments:
 Arguments must be integers. An error is displayed otherwise.
 
 If no argument is provided, the program runs using a default number of 5 philosophers, whose
-names a read from the xml file: **philosophers.xml**. If no file exists, a new one is created.
+names are read from the xml file: **philosophers.xml**. If no file exists, a new one is created.
 
 ![Java Execution](https://github.com/RedRichard/Philosopher-s-Problem/blob/master/programScreenshots/javaExecution.png)
